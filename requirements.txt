@@ -1,0 +1,5 @@
+Flask
+flask-pymongo
+passlib
+dnspython
+gunicorn
